@@ -8,7 +8,7 @@
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/usekaneo/kaneo/ci.yml?branch=main)](https://github.com/usekaneo/kaneo/actions)
-[![Discord](https://img.shields.io/discord/1326250681530843178?color=7389D8&label=&logo=discord&logoColor=ffffff)](https://discord.gg/rU4tSyhXXU)
+[![Discord](https://img.shields.io/discord/1326250681530843178?logo=discord&label=&labelColor=ffffff&link=https%3A%2F%2Fdiscord.gg%2FrU4tSyhXXU)](https://discord.com/invite/rU4tSyhXXU)
 [![Sponsors](https://img.shields.io/github/sponsors/andrejsshell)](https://github.com/sponsors/andrejsshell)
 
 </div>
